@@ -64,3 +64,7 @@ Starting the server
   go run main.go
 ```
 
+## Acknowledgements
+
+#### Check Out Akhil Sharma's Youtube Video for Project Tutorial
+[Golang And MongoDB REST API 🚀🚀From Scratch](https://youtu.be/zICaTPBkupY?si=hgzJcU3kHQTY3Zt1)
